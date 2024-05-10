@@ -6,10 +6,10 @@
 3) Start node:(0,0) , Goal node:(24,-9)
 
 ## Range of obstacle Map
-x direction: -5,55
+x direction: (-5,55)
 
 
-y direction: -10,10
+y direction: (-10,10)
 
 ## Algorithms Provided:
 1)Improved-RRT Connect
