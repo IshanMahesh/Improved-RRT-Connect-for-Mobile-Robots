@@ -23,13 +23,13 @@
 
 ## How to Run the Code:
 
-    git clone https://github.com/IshanMahesh/A_Star_Implementation_Using_Turtlebot.git
+    git clone https://github.com/IshanMahesh/Improved-RRT-Connect-for-Mobile-Robots.git
 
 ### Part 1
 
 #### Run the command below:
 
-    cd A_Star_Implementation_Using_Turtlebot/Part1_Ph2
+    cd Improved-RRT-Connect-for-Mobile-Robots
     python3 a_star_abhey_ishan.py
 
 
