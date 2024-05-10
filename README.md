@@ -30,7 +30,7 @@
 #### Run the command below:
 
     cd Improved-RRT-Connect-for-Mobile-Robots
-    python3 a_star_abhey_ishan.py
+    python3 Improved_rrt_connect.py
 
 
 ## User Input
