@@ -1,4 +1,4 @@
-# Improved-RRT-Connect-for-Mobile-Robots ( A Novel Approach )
+## Improved-RRT-Connect-for-Mobile-Robots ( A Novel Approach )
 
 ## Authors:
 
