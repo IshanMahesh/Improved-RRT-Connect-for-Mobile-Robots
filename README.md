@@ -1,4 +1,4 @@
-# Improved-RRT-Connect-for-Mobile-Robots
+# Improved-RRT-Connect-for-Mobile-Robots ( A Novel Approach )
 
 ## Authors:
 
@@ -6,6 +6,10 @@
 
     Name: Abhey Sharma (abheys16@umd.edu)  UID: 120110306
 
+
+## Paper:
+
+    Link:  https://drive.google.com/file/d/157BKSYy6tDqnEaooKPEHXDGNDdRrAjSY/view?usp=sharing
 
 
 
